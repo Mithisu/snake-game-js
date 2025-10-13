@@ -1,0 +1,10 @@
+class Cobra{
+    constructor
+
+
+
+
+
+
+
+}
